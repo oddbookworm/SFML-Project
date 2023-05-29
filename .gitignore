@@ -1,0 +1,9 @@
+# executables
+bin/*
+
+# IDE stuff
+.vscode/*
+
+# generated doxygen stuff
+html/*
+latex/*
